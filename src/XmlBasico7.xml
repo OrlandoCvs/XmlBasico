@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Factura>
+    <BusinessContactInformation>
+        <Business_name> name </Business_name>
+        <Street_address> address </Street_address>
+        <CityStateZipcode> city </CityStateZipcode>
+    </BusinessContactInformation>
+    <BillTo>
+        <Business_name> name </Business_name>
+        <Street_address> address </Street_address>
+        <CityStateZipcode> city </CityStateZipcode>
+    </BillTo>
+    <ShipTo>
+        <Clientname> name </Clientname>
+        <Street_address> address </Street_address>
+        <CityStateZipcode> city </CityStateZipcode>
+    </ShipTo>
+    <InvoiceDetails>
+        <Invoice_Number> invoice number</Invoice_Number>
+        <Date> date </Date>
+        <Terms_of_Payment> pago </Terms_of_Payment>
+    </InvoiceDetails>
+    <ProductoServicio>
+        <Description> description </Description>
+        <Quantity> qty </Quantity>
+        <Rate> rate </Rate>
+        <Amount> amount </Amount>
+    </ProductoServicio>
+    <Customer_Message>
+        Hello! Thank you for your purchase.
+        Please return this invoice with payment.
+        Thanks!
+    </Customer_Message>
+    <Checkout>
+        <Subtotal> subtotal </Subtotal>
+        <Tax> tax </Tax>
+        <Shipping> shipping </Shipping>
+        <Total> total </Total>
+    </Checkout>
+</Factura>

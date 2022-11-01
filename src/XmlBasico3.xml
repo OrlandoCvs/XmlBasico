@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Carta>
+    <Menu>
+        <GofresBelgas PrecioEuros = "5.95 "
+                      Descripción = "Dos de nuestros famosos Gofres belgas con abundante sirope"
+                      Calorias = "650"> </GofresBelgas>
+        <GofresBelgasConFresas PrecioEuros = "7.95"
+                               Descripción = "Ligeros gofres belgas cubiertos de fresas y nata montada"
+                               Calorias = "900"> </GofresBelgasConFresas>
+        <GofresBelgasConFrutasDelBosque PrecioEuros = "8.95"
+                                        Descripción = "Ligeros gofres belgas cubiertos con frutas del bosque y nata montada"
+                                        Calorias = "900"> </GofresBelgasConFrutasDelBosque>
+        <TostadaFrancesa PrecioEuros = "4.50"
+                         Descripción = "Dos gruesas rebanadas de nuestro pan francés casero"
+                         Calorias = "600"> </TostadaFrancesa>
+        <Desayuno PrecioEuros = "6.95"
+                          Descripción = "Dos huevos, bacon o salchicha, tostada y patatas fritas"
+                          Calorias = "950"> </Desayuno>
+    </Menu>
+</Carta>

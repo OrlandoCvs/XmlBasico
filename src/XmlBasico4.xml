@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Discos>
+    <Nombre>
+        <StillGotTheBus Artista = "Gary Moore "
+                        Pais = "UK"
+                        CompañiaDiscografica = "Virgin Records"
+                        Precio = "10.20"
+                        AñoDePublicacion = "1990"> </StillGotTheBus>
+
+
+        <OneNight_Only Artista = "Bee Gees"
+                       Pais = "UK"
+                       CompañiaDiscografica = "Polydor"
+                       Precio = "10.90"
+                       AñoPublicacion = "1998"></OneNight_Only>
+        <WhenAManLovesAWoman Artista = "Percy Sledge"
+                             Pais = "USA"
+                             CompañiaDiscografica = "Atlantic"
+                             Precio = "8.70"
+                             AñoPublicacion = "1987"> </WhenAManLovesAWoman>
+
+
+        <BigWillieStyle Artista = "Will Smith"
+                        Pais = "USA"
+                        CompañiaDiscografica = "Columbia"
+                        Precio = "9.90"
+                        AñoPublicacion = "1997"> </BigWillieStyle>
+
+
+        <LaCancionDeJuanPerro Artista = "Radio Futura"
+                              Pais = "España"
+                              CompañiaDiscografica = "Sony Music-Ariola"
+                              Precio = "9.90"
+                              AñoPublicacion = "1987"> </LaCancionDeJuanPerro>
+
+
+        <TheDockOfTheBay Artista = "Otis Redding"
+                         Pais = "USA"
+                         CompañiaDiscografica = "Atlantic"
+                         Precio = "7.90"
+                         AñoPublicacion = "1987"> </TheDockOfTheBay>
+    </Nombre>
+</Discos>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comparacion>
+    <documento>
+        <p>Mi Primer <destacar
+                importancia= "documento">
+            XML</destacar></p>
+        <p>Comienza con la etiqueta</p>
+        <p>A continuacion colocamos un
+            elemento sin contenido</p>
+        <imagen fichero="imagen.gif"></imagen>
+    </documento>
+
+    <Libros>
+        <libro>
+            <id> = "quijote"</id>
+            <titulo> El Quijote</titulo>
+            <autor nombre = "cervantes">
+
+            </autor>
+            <descripcion> Es el mejor libro de cervantes.
+            </descripcion>
+        </libro>
+    </Libros>
+</comparacion>

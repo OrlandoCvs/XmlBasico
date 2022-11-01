@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Información>
+    <NombresCientíficos>
+        <Acer_monspessulanum Nombre= "Arce de Montpellier, Arce menor "
+                             Vegetación= "Caducifolio"
+                             Altura = "De 6 a 10 metros"
+                             FormaEstructura = "Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante"
+                             ColorPrimavera = "Haz verde brillante, envés verde blanquecino"
+                             Resistencia = "Heladas fuertes (hasta -15ºC)"> </Acer_monspessulanum>
+        <Oleaeuropea NombreComún= "Olivo"
+                     Vegetación= "Perenne"
+                     Altura = "De 8 a 15 metros"
+                     FormaEstructura = "Copa irregular. Tronco principal irregular con bifurcaciones."> </Oleaeuropea>
+        <Ramajetortuoso ColorPrimavera = " Haz verde oscuro, envés verde plateado"
+                        Resistencia = "Heladas fuertes (hasta -10ºC)"> </Ramajetortuoso>
+        <Platanusorientalis Nombre= "Platano"
+                            Vegetación= "Caducifolio"
+                            Altura = "De 20 a 25 metros"
+                            FormaEstructura = "Copa ovoidal. Tronco principal recto. Ramaje expandido"
+                            ColorPrimavera = "Haz verde medio, enves verde claro"
+                            ColorOtoño = "Ocre"
+                            ResistenciaHeladas = "Heladas fuertes (hasta -20ºC)"> </Platanusorientalis>
+        <Platanusorientalis Nombre= "Encina"
+                            Vegetación= "Perenne"
+                            Altura = "En torno a 25 metros"
+                            FormaEstructura = "Copa esférica o elíptica irregular. Tronco principal recto. Ramaje tortuoso"
+                            ColorPrimavera = "Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado"
+                            ResistenciaHeladas = "Heladas fuertes (hasta -15ºC)"> </Platanusorientalis>
+    </NombresCientíficos>
+</Información>
